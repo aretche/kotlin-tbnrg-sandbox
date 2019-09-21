@@ -1,5 +1,5 @@
 fun main() {
-    var playerName: String = "Estragon"
+    val playerName: String = "Estragon"
     var experiencePoints: Int = 5
     experiencePoints += 5
     println(experiencePoints)
